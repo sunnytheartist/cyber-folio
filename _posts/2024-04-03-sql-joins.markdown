@@ -9,5 +9,5 @@ alt: image-alt
 project-url: https://docs.google.com/document/d/1jsZw6r_kWg15puWb2tVpSj7NFtwkgzFXajGZHvdYOZA/edit?usp=sharing
 
 # Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables. <not applicable
-description: Utilize MariaDB to perform filtering commands (AND, OR, NOT)
+description: Utilized MariaDB to perform filtering commands (AND, OR, NOT) to retrieve information on log-in attempts and information on employees in different departments to investigate potential security issues.
 ---
